@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wychoe.DEV\Documents\GitHub\RVO2\build\CMakeFiles\49a6208f5dfd5204c7e0e73f3572bfbe\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D79B74F7-5D87-33C0-A9C7-B501DF81F6C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

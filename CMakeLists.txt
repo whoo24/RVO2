@@ -33,9 +33,10 @@
 cmake_minimum_required(VERSION 2.8)
 project(RVO)
 
-include(CTest)
+# include(CTest)
 
 add_subdirectory(src)
 add_subdirectory(examples)
 
-include(CPack)
+# include(CPack)
+set(CMAKE_SUPPRESS_REGENERATION false)

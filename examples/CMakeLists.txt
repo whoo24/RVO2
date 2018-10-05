@@ -44,4 +44,4 @@ add_executable(Roadmap Roadmap.cpp)
 target_link_libraries(Roadmap RVO)
 add_test(Roadmap Roadmap)
 
-install(TARGETS Blocks Circle Roadmap DESTINATION bin)
+# install(TARGETS Blocks Circle Roadmap DESTINATION bin)

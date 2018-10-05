@@ -51,5 +51,5 @@ if(WIN32)
     set_target_properties(RVO PROPERTIES COMPILE_DEFINITIONS NOMINMAX)
 endif()
 
-install(FILES ${RVO_HEADERS} DESTINATION include)
-install(TARGETS RVO DESTINATION lib)
+# install(FILES ${RVO_HEADERS} DESTINATION include)
+# install(TARGETS RVO DESTINATION lib)
